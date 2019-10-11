@@ -2,3 +2,4 @@
     puts "Hello World"
   end
   
+  greeting
